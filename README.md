@@ -22,6 +22,10 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 TBD
 
+## Roadmap
+
+* Integrate TA-Lib and take over the entire Tri-State Area ...
+
 ## Contributing
 
 All quants and wannaBees are welcome!
