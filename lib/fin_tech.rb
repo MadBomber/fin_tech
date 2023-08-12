@@ -23,5 +23,5 @@ require_relative './fin_tech/simple_moving_average'
 require_relative './fin_tech/stochastic_oscillator'
 require_relative './fin_tech/true_range'
 
-class FinTech
+module FinTech
 end
